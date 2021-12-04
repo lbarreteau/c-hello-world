@@ -3,6 +3,6 @@
 int main()
 {
     puts("Hello world!");
-    puts("Hello mom ^^");
+    puts("Salut c'est Patrick !");
     return 0;
 }
