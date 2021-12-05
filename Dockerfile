@@ -11,7 +11,7 @@ WORKDIR /app/
 
 COPY . .
 
+RUN make fclean
 RUN make
-RUN make clean
 
 CMD [ "./compiled-app" ]
